@@ -2,6 +2,8 @@
 
 ## Neuroethology @ Eberhard Karls Universit&auml;t T&uuml;bingen
 
-Work in progress!
+### Documentation and API references of our software packages
 
-We will publish documentation of our software packages soon.
+- [audioio](https://bendalab.github.io/audioio)
+- [thunderfish](https://bendalab.github.io/thunderfish)
+- [plottools](https://bendalab.github.io/plottools)
