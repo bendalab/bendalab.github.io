@@ -1,6 +1,6 @@
 # Benda-Lab
 
-## Neuroethology @ Eberhard Karls Universit&auml; T&uuml;bingen
+## Neuroethology @ Eberhard Karls Universit&auml;t T&uuml;bingen
 
 Work in progress!
 
