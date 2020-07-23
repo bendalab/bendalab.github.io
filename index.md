@@ -2,8 +2,34 @@
 
 ## Neuroethology @ Eberhard Karls Universit&auml;t T&uuml;bingen
 
-### Documentation and API references of our software packages
+### Our software packages
 
-- [audioio](https://bendalab.github.io/audioio)
-- [thunderfish](https://bendalab.github.io/thunderfish)
-- [plottools](https://bendalab.github.io/plottools)
+
+#### Audioio
+
+Platform independent interfacing of numpy arrays of floats with audio
+files and devices.
+
+- [Code](https://github.com/bendalab/audioio)
+- [PyPI package](https://pypi.org/project/audioio)
+- [Documentation](https://bendalab.github.io/audioio)
+- [API reference](https://bendalab.github.io/audioio/api)
+
+
+#### Thunderfish
+
+Algorithms and programs for analysing electric field recordings of
+weakly electric fish.
+
+- [Code](https://github.com/bendalab/thunderfish)
+- [Documentation](https://bendalab.github.io/thunderfish)
+- [API reference](https://bendalab.github.io/thunderfish/api)
+
+
+#### Plottools
+
+Simplify production of publication-quality figures based on matplotlib.
+
+- [Code](https://github.com/bendalab/plottools)
+- [Documentation](https://bendalab.github.io/plottools)
+- [API reference](https://bendalab.github.io/plottools/api)
