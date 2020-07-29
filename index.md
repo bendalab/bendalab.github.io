@@ -42,3 +42,10 @@ Tool for keeping track of the animals in the lab.
 - [Code](https://github.com/bendalab/animal_keeping)
 - [Documentation](https://bendalab.github.io/animal_keeping)
 - [Packages](https://github.com/bendalab/animal_keeping/releases)
+
+#### NixView
+
+Viewer for [NIX](https://github.com/g-node/nix) data files.
+
+- [Code](https://github.com/bendalab/nixview)
+- [Documentation](http://bendalab.github.io/nixview)
