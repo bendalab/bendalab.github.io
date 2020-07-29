@@ -33,3 +33,12 @@ Simplify production of publication-quality figures based on matplotlib.
 - [Code](https://github.com/bendalab/plottools)
 - [Documentation](https://bendalab.github.io/plottools)
 - [API reference](https://bendalab.github.io/plottools/api)
+
+
+#### Animal Base
+
+Tool for keeping track of the animals in the lab.
+
+- [Code](https://github.com/bendalab/animal_keeping)
+- [Documentation](https://bendalab.github.io/animal_keeping)
+- [Packages](https://github.com/bendalab/animal_keeping/releases)
