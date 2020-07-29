@@ -48,4 +48,4 @@ Tool for keeping track of the animals in the lab.
 Viewer for [NIX](https://github.com/g-node/nix) data files.
 
 - [Code](https://github.com/bendalab/nixview)
-- [Documentation](http://bendalab.github.io/nixview)
+- [Documentation](https://bendalab.github.io/nixview)
