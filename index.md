@@ -55,4 +55,4 @@ Viewer for [NIX](https://github.com/g-node/nix) data files.
 
 ### Some manuscripts
 
-- Benda (2020): The physics of electrosensory worlds. [[PDF](https://bendalab.github.io/pubs/Benda2020-ElectrosensoryWorlds.pdf)]
+- Benda (2020): The physics of electrosensory worlds. In: The Senses, vol. 7 [[PDF](https://bendalab.github.io/pubs/Benda2020-ElectrosensoryWorlds.pdf)]
