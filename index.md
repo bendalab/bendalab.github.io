@@ -55,4 +55,6 @@ Viewer for [NIX](https://github.com/g-node/nix) data files.
 
 ### Some manuscripts
 
+- Benda (2021): Neural adaptation. *Current Biology* 31(3): R110-R116. [[DOI](https://doi.org/10.1016/j.cub.2020.11.054)] [[Tutorial](https://github.com/janscience/adaptationprimer)]
+
 - Benda (2020): The physics of electrosensory worlds. In: The Senses, vol. 7 [[PDF](https://bendalab.github.io/pubs/Benda2020-ElectrosensoryWorlds.pdf)]
