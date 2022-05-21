@@ -5,6 +5,11 @@
 [Neuroethology lab home page](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/biologie/institute/neurobiologie/lehrbereiche/neuroethology/)
 
 
+### Hard- and software for electric fish research
+
+[Read more...](efishhardware.md)
+
+
 ### Our software packages
 
 
