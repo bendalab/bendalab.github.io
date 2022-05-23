@@ -44,6 +44,13 @@ weakly electric fish.
 [janscience fork](https://github.com/janscience/EOD-Logger)
 
 
+## FishFinder
+
+Smart fishfinders for better EOD recordings of electric fish in the field.
+
+[github](https://github.com/janscience/FishFinder)
+
+
 ## TeeGrid
 
 Record electric fish with electrode arrays based on Teensy
