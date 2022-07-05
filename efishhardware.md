@@ -8,7 +8,7 @@ We are developing hard- and software for
 
 to make research on electric fish in the field more fun.
 
-For more see the following projects, amplifiers, libraries:
+For more details see the following projects, amplifiers, and libraries:
 
 
 ## Teensy_Amp
@@ -24,7 +24,8 @@ A two-channel differential amplifier with band-pass filter settings.
 Libraries for recording analog input data on Teensy 3.2/3.5/3.6
 microcontrollers.
 
-[github](https://github.com/janscience/TeeRec)
+[github](https://github.com/janscience/TeeRec) - available via [Arduino
+Library Manager](https://github.com/arduino/library-registry).
 
 
 ## ESensors
@@ -32,7 +33,7 @@ microcontrollers.
 A library for environmental sensors (air and water) for Teensy and
 Arduino with additional background information.
 
-[github](https://github.com/janscience/ESensors)
+[github](https://github.com/janscience/ESensors) - available via [Arduino Library Manager](https://github.com/arduino/library-registry).
 
 
 ## EOD-Logger
