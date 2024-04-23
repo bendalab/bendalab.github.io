@@ -24,6 +24,16 @@ weakly electric fish.
 [API reference](https://bendalab.github.io/thunderfish/api)
 
 
+#### ThunderLab
+
+Load and preprocess time series data.
+
+[Code](https://github.com/bendalab/thunderlab) |
+[PyPI package](https://pypi.org/project/thunderlab) |
+[Documentation](https://bendalab.github.io/thunderlab) |
+[API reference](https://bendalab.github.io/thunderlab/api)
+
+
 #### Audioio
 
 Platform independent interfacing of numpy arrays of floats with audio
