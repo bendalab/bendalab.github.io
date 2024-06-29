@@ -24,6 +24,16 @@ weakly electric fish.
 [API reference](https://bendalab.github.io/thunderfish/api)
 
 
+#### Audian
+
+Python- and pyqtgraph-based GUI for viewing and analyzing recordings of animal vocalizations.
+
+[Code](https://github.com/bendalab/audian) |
+[PyPI package](https://pypi.org/project/audian) |
+[Documentation](https://bendalab.github.io/audian) |
+[API reference](https://bendalab.github.io/audian/api)
+
+
 #### ThunderLab
 
 Load and preprocess time series data.
